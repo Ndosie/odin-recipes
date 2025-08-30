@@ -1,0 +1,30 @@
+body {
+    background-color: lightgray;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+.content {
+    padding: 8px;
+    width: 500px;
+    margin: 16px auto;
+}
+
+h1 {
+    background-color: burlywood;
+    margin-bottom: 8px;
+    padding: 8px;
+    text-align: center;
+}
+
+.links {
+    background-color: burlywood;
+    padding: 8px;
+}
+
+.header, .description  {
+    background-color: burlywood;
+    padding: 8px;
+}
+
+img {
+    margin: 16px 0;
+}
